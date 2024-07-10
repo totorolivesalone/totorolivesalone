@@ -19,8 +19,6 @@
 <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/pngegg.png" alt="drawing" width="300px" height="200px"/>  
 
 ![Visitor Count](https://profile-counter.glitch.me/{totorolivesalone}/count.svg)
-<p style="font-size: 30px; background: -webkit-linear-gradient(#eee, #333); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  This is gradient text
-</p
+
 
 
