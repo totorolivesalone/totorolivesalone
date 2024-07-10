@@ -13,7 +13,8 @@
 Languages I have tried working with: C++,Java, JavaScipt,R, PHP, Python, Assembly <br/>
 Libraries/Frameworks used: Bootstrap, React, Node  <br/>
 Currently learning: Vue, GSAP
-### View count
+#### View count (since July 10,2024)
+
 ![Visitor Count](https://profile-counter.glitch.me/{totorolivesalone}/count.svg)
 
 
