@@ -9,7 +9,7 @@
   <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/sa.gif" style="width: 100%;" alt="Click to see the source" /> 
 </div>
 
-## Tech stack
+## Tech stack 💻
 
 - Languages I have tried working with: C++,Java, JavaScipt,R, PHP, Python, Assembly <br/>
 - Libraries/Frameworks used: Bootstrap, React, Node  <br/>
