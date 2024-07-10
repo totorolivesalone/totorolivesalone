@@ -1,5 +1,4 @@
-
-![Totoro](https://github.com/totorolivesalone/GithubProfileAssets/blob/main/pngegg.png)
+<img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/pngegg.png" alt="drawing" width="200" height="200"/>
 # Hello (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 <div style="width: 100%;">
