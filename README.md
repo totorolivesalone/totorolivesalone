@@ -14,7 +14,7 @@ Languages I have tried working with: C++,Java, JavaScipt,R, PHP, Python, Assembl
 Libraries/Frameworks used: Bootstrap, React, Node  <br/>
 Currently learning: Vue, GSAP
 ### View count
-![Visitor Count](https://cdn.jsdelivr.net/npm/moecounter.js@1/dist/browser/moecounter.min.js)
+[Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 
