@@ -8,10 +8,11 @@
  
   <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/sa.gif" style="width: 100%;" alt="Click to see the source" /> 
 </div>
-<div style=" background: linear-gradient(to right, #f32170, 
-                    #ff6b08, #cf23cf, #eedd44); 
-            -webkit-text-fill-color: transparent; 
-            -webkit-background-clip: text;">
-  Tech stack
-</div>
+
+## Tech stack
+Languages I have tried working with: C++,Java, JavaScipt,R, PHP, Python, Assembly
+Libraries/Frameworks used: Bootstrap, React, Node 
+Currently learning: Vue, GSAP
+### View count
+<script src="https://cdn.jsdelivr.net/npm/moecounter.js@1/dist/browser/moecounter.min.js"></script>
 
