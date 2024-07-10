@@ -10,9 +10,9 @@
 </div>
 
 ## Tech stack
+
 <div style="background-color: red;
   background-image: linear-gradient(45deg, #f3ec78, #af4261);
-   background-size: 100%;
   background-repeat: repeat;  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; 
   -moz-background-clip: text;
