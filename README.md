@@ -8,9 +8,10 @@
  
   <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/sa.gif" style="width: 100%;" alt="Click to see the source" /> 
 </div>
-<div style="color: linear-gradient(red, blue);
-   
-    background-clip: text;">
+<div style=" background: linear-gradient(to right, #f32170, 
+                    #ff6b08, #cf23cf, #eedd44); 
+            -webkit-text-fill-color: transparent; 
+            -webkit-background-clip: text;">
   Tech stack
 </div>
 
