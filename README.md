@@ -8,5 +8,9 @@
  
   <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/sa.gif" style="width: 100%;" alt="Click to see the source" /> 
 </div>
-
+<div style="background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;">
+  Tech stack
+</div>
 
