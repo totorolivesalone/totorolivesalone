@@ -12,7 +12,6 @@
 ## Tech stack
 <div style="background-color: red;
   background-image: linear-gradient(45deg, #f3ec78, #af4261);
-  background-size: 100%;
   background-repeat: repeat;">
 - Languages I have tried working with: C++,Java, JavaScipt,R, PHP, Python, Assembly <br/>
 - Libraries/Frameworks used: Bootstrap, React, Node  <br/>
