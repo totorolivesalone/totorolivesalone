@@ -13,7 +13,8 @@
 
 - Languages I have tried working with: C++,Java, JavaScipt,R, PHP, Python, Assembly <br/>
 - Libraries/Frameworks used: Bootstrap, React, Node  <br/>
-- Currently learning: Vue, GSAP
+- Currently learning:Vue , Laravel
+- 
   
 ### View count (since July 10,2024)
 <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/pngegg.png" alt="drawing" width="300px" height="200px"/>  
