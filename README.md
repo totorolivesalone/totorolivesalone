@@ -16,13 +16,13 @@
 - Currently learning:Vue , Laravel
 
   
-### View count (since July 10,2024)
+
 <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/pngegg.png" alt="drawing" width="300px" height="200px"/>  
 
 ![Visitor Count](https://profile-counter.glitch.me/{totorolivesalone}/count.svg)
 
 
-<div style="align=center">
+<div style="align:center">
   Made with 🩸, 💦 and 🥹
 </div>
 
