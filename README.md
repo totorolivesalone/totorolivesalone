@@ -22,7 +22,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{totorolivesalone}/count.svg)
 
 
-<div style="align:center">
+<div style="align:center;">
   Made with 🩸, 💦 and 🥹
 </div>
 
