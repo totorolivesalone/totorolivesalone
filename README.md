@@ -21,7 +21,7 @@
 
 
 
-<div style="align:center;">
+<div style="left:30%;">
   Made with 🩸, 💦 and 🥹
 </div>
 
