@@ -17,8 +17,12 @@
 
   
 
-<img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/pngegg.png" alt="drawing" width="300px" height="200px"/>  
+<img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/pngegg.png" alt="drawing" width="300px" height="200px"/> 
 
+<details>
+<summary>Brain Rot</summary>
+  I warned you
+</details>
 
 
 <div >
