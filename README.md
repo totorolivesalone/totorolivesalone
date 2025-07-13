@@ -19,7 +19,6 @@
 
 <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/pngegg.png" alt="drawing" width="300px" height="200px"/>  
 
-![Visitor Count](https://profile-counter.glitch.me/{totorolivesalone}/count.svg)
 
 
 <div style="align:center;">
