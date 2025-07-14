@@ -24,8 +24,10 @@
   I had warned you!
   <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/genzlingo.svg" style="width: 100%;" alt="Click to see the source">
 </details>
-<div>
+
 ### Site statistics
+<div>
+
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
     <img src="https://api.sefinek.net/api/v2/moecounter/@totorolivesalone-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Statistics have been collected since 12.04.2024 [DD.MM.YYYY].">    
 </a>
