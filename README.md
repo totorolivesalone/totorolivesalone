@@ -21,7 +21,7 @@
 
 <details>
 <summary>Brain Rot</summary>
-  I warned you!
+  I had warned you!
   <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/genzlingo.svg" style="width: 100%;" alt="Click to see the source">
 </details>
 
