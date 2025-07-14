@@ -37,6 +37,10 @@ since 14th July,2025
   Creds to https://github.com/sefinek for the kawaii counter 
 </div>
 
+<br/>
+<br/>
+<br/>
+
 <div >
   Made with 🩸, 💦 and 🥹
 </div>
