@@ -29,9 +29,12 @@
 <div>
 
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
-    <img src="https://api.sefinek.net/api/v2/moecounter/@totorolivesalone-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Statistics have been collected since 12.04.2024 [DD.MM.YYYY].">    
-</a>
-  Creds to https://github.com/sefinek for the kawaii counter
+    <img src="https://api.sefinek.net/api/v2/moecounter/@totorolivesalone-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Statistics have been collected since 14.07.2025 [DD.MM.YYYY].">    
+</a> 
+<br/>
+since 14th July,2025
+<br/>
+  Creds to https://github.com/sefinek for the kawaii counter 
 </div>
 
 <div >
