@@ -37,8 +37,7 @@
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
     <img src="https://api.sefinek.net/api/v2/moecounter/@totorolivesalone-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Statistics have been collected since 16.07.2025 [DD.MM.YYYY].">    
 </a>
-Creds to <a href="https://github.com/sefinek/" target="_blank">Sefinek</a> for curating this Kawaii counte
-r.  
+Creds to <a href="https://github.com/sefinek/" target="_blank">Sefinek</a> for curating this Kawaii counter.  
 </details>
 
 
