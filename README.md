@@ -33,7 +33,7 @@
 <details>
 
 <summary>Page Visit statistics</summary>
- Tracked from=17th July,2025
+ Tracked from=17th July,2025 <br/>
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
     <img src="https://api.sefinek.net/api/v2/moecounter/@totorolivesalone-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Statistics have been collected since 16.07.2025 [DD.MM.YYYY].">    
 </a>
