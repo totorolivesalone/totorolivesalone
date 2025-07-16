@@ -30,11 +30,8 @@
 
 <br/>
 
-<details>
+☆*:.｡.o(≧▽≦)o.｡.:*☆
 
-<summary>Page Visit statistics</summary>
- 
-</details>
 
 
 
