@@ -30,6 +30,9 @@
 
 <br/>
 
+<div>
+  [//]: # (Hiding site statistics tool here to collect data here . Credits to: https://github.com/antonkomarev/github-profile-views-counter ) 
+  ![](https://komarev.com/ghpvc/?username=totorolivesalone&style=pixel)
 
 <div >
   Made with 🩸, 💦 and 🥹
