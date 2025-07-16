@@ -30,6 +30,8 @@
 
 <br/>
 
+<details>
+
 <summary>Page Visit statistics</summary>
  
 <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
