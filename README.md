@@ -32,7 +32,9 @@
 
 <div>
    <!-- (Hiding site statistics tool here to collect data here . Credits to: https://github.com/antonkomarev/github-profile-views-counter ) 
-  ![](https://komarev.com/ghpvc/?username=totorolivesalone&style=pixel) -->
+  -->
+
+  ![](https://hit.yhype.me/github/profile?account_id=129025317)
 
 <div >
   Made with 🩸, 💦 and 🥹
