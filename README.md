@@ -23,7 +23,9 @@
 
 
 <br/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=3000&pause=500&color=7D8C5E&center=true&vCenter=true&width=500&lines=+%E2%80%9CThe+wind+rises%2C+and+we+must+live.%E2%80%9D;+%E2%80%9CAlways+believe+in+yourself.%E2%80%9D;+%E2%80%9CFind+joy+in+the+ordinary.%E2%80%9D" alt="Typing SVG" />
+</p>
 <br/>
 
 <div>
