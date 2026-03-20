@@ -2,7 +2,7 @@
 # Hello (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 <div style="width: 100%;">
-  <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/hello.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/y2k.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 <div style="width: 50%;">
  
