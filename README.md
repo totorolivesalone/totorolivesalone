@@ -33,7 +33,7 @@
   ![](https://hit.yhype.me/github/profile?account_id=129025317)
 
 <div >
-  Made with ⋆｡°✩
+  Made with ˚ʚ♡ɞ˚
 </div>
 
 
