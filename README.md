@@ -15,7 +15,7 @@
 
   
 
-<img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/githubfooter.gif" width="100%"/> 
+<img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/footerFinal.gif" width="100%"/> 
 
 
 
