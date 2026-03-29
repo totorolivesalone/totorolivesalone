@@ -5,7 +5,7 @@
   <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/Githubwelcome.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
- <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/blueDiv.gifr" style="width: 100%;" alt="Click to see the source">
+ <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/blueDiv.gif" style="width: 100%;" alt="Click to see the source">
 
 ## Tech stack 💻
 
