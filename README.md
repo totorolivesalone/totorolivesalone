@@ -7,7 +7,7 @@
 
  <img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/blueDiv.gif" style="width: 100%;" alt="Click to see the source">
 
-## Tech stack 💻
+## Tech stack 
 
 - Languages I have tried working with: C++,Java, JavaScipt,R, PHP, Python, Assembly <br/>
 - Libraries/Frameworks used: Bootstrap, React, Node , Matplotlib , Pandas , Numpy , Vue , GSAP <br/>
