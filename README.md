@@ -15,7 +15,7 @@
 
   
 
-<img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/pngegg.png" alt="drawing" width="300px" height="200px"/> 
+<img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/githubfooter.gif" width="100%"/> 
 
 
 
