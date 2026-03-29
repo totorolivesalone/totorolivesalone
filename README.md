@@ -14,13 +14,10 @@
 - Currently learning: Laravel
 
   
-
-<img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/footerFinal.gif" width="100%"/> 
-
-
-
-
 <br/>
+
+<img src="https://github.com/totorolivesalone/GithubProfileAssets/blob/main/finalfinalfooter.gif" width="100%"/> 
+
 
 <br/>
 
