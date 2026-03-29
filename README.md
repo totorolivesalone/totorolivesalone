@@ -10,8 +10,8 @@
 ## Tech stack 💻
 
 - Languages I have tried working with: C++,Java, JavaScipt,R, PHP, Python, Assembly <br/>
-- Libraries/Frameworks used: Bootstrap, React, Node  <br/>
-- Currently learning:Vue , Laravel
+- Libraries/Frameworks used: Bootstrap, React, Node , Matplotlib , Pandas , Numpy , Vue , GSAP <br/>
+- Currently learning: Laravel
 
   
 
